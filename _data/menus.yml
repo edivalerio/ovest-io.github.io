@@ -11,7 +11,10 @@ main:
   - name: "Contatti"
     url: "/contact/"
     weight: 5
-
+  - name: "Yeah"
+    url: "/team/"
+    weight: 6
+    
 footer:
   - name: "Home"
     url: "/"
