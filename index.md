@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Tapioco, Antani e altro
+# Ovest Technology Investments 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel enim eget urna fringilla vulputate sit amet vel ante. Donec blandit eu nulla eget consequat. Maecenas eu mi elit. Quisque sed semper urna. Aliquam erat volutpat. Integer id sagittis eros, sit amet convallis nibh. Proin sed facilisis urna.
+Società fondata da Antonio Sorrentino, Professore a contratto di Sistemi Informativi a supporto delle decisioni aziendali all’Università Cattolica del Sacro Cuore di Milano, e da Vincenzo De Cristofaro, esperto di tecnologie e piattaforme sui sistemi innovativi di pagamento e fidelizzazione, con l’obiettivo di fornire attività di consulenza e sviluppo di prodotti e servizi tecnologici in materia di Open Innovation, ricerca generale e applicata nei mercati oggetto dell’attuale trasformazione digitale quali quello delle Banche, della distribuzione organizzata moderna, della Moda, della ristorazione, delle Università e degli incubatori. 
