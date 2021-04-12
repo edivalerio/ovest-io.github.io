@@ -1,16 +1,28 @@
 ---
-title: Contact
-layout: contact
+title: Contattaci
+layout: Contatti
 bodyClass: page-contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Sito web: www.ovest.io
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Mail: info@ovest.io
+
+---------------------------------------------------------
+
+
+Ovest Technology Investments S.r.l. 
+
+Sede Legale: Via di Pota Tenaglia 4, 20121 Milano
+
+Direzione Generale: Via della Conciliazione 10, 00193 Roma
+
+P.iva: IT10747660966 
+
+Numero R.E.A.: MI-2554475
+
+Sdi: M5UXCR1 
+
+Capitale sociale: 10.000,00 euro i.v.
+
+Pec: ovestsrl@pec.net
