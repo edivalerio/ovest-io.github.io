@@ -1,12 +1,12 @@
 ---
-title: "Accounting"
+title: "Ricerche di Mercato e Analisi dei dati"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
